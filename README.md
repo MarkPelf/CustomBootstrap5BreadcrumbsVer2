@@ -200,3 +200,49 @@ https://markpelf.com/2114/custom-bootstrap-5-breadcrumbs-ver-2/
 
 [1] https://icons.getbootstrap.com/\#install  
 [2] https://markpelf.com/2114/custom-bootstrap-5-breadcrumbs-ver-2/
+
+#### markdown-it Challenge================
+__Advertisement :)__  
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-  
+!!!!!! ???? ,, -- ---  
+~~Strikethrough~~
+
+#### Syntax highlighting  
+``` js
+var foo = function (bar) {
+  return bar++;
+};
+
+console.log(foo(5));
+``` 
+
+#### Tables  
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files  |
+| engine | engine to be used  |
+| ext    | extension to be  |
+
+#### Plugins  
+`markdown-it` supports `syntax plugins` 
+
+#### Subscript/ Superscript   
+- 19^th^
+- H~2~O
+
+++Inserted text++  
+==Marked text==
+
+#### Footnotes   
+Footnote 1 link[^first].  
+Duplicated footnote reference[^second].   
+[^first]: Footnote **can have markup**  
+    and multiple paragraphs.  
+[^second]: Footnote text.  
+
+#### Custom containers 
+::: warning
+*here be dragons*
+:::
+
+#### markdown-it Challenge================
