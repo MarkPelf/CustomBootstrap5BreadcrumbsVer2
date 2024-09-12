@@ -48,7 +48,7 @@ this example. HTML code for icon usage is a bit complicated because we needed to
 separate icons and text into 2 separate elements so they could be styled
 independently.
 
-```html
+``` js
 <!DOCTYPE html>
 <html>
 
@@ -83,15 +83,16 @@ See Breadcrumb3.css in the repository.
 --------------
 
 This is just excerpt from an article published at:
-https://markpelf.com/2114/custom-bootstrap-5-breadcrumbs-ver-2/
+[Custom Bootstrap 5 Breadcrumbs -Ver 2](https://markpelf.com/2114/custom-bootstrap-5-breadcrumbs-ver-2/)
 
 5 References
 ------------
 
 [1] https://icons.getbootstrap.com/\#install  
-[2] https://markpelf.com/2114/custom-bootstrap-5-breadcrumbs-ver-2/
+[2] [Custom Bootstrap 5 Breadcrumbs -Ver 2](https://markpelf.com/2114/custom-bootstrap-5-breadcrumbs-ver-2/)
 
-#### markdown-it Challenge================
+
+#### MarkdownChallenge1==============
 __Advertisement :)__  
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-  
 !!!!!! ???? ,, -- ---  
@@ -113,6 +114,9 @@ console.log(foo(5));
 | engine | engine to be used  |
 | ext    | extension to be  |
 
+#### MarkdownChallenge1==============
+
+#### MarkdownChallenge2==============
 #### Plugins  
 `markdown-it` supports `syntax plugins` 
 
@@ -135,4 +139,4 @@ Duplicated footnote reference[^second].
 *here be dragons*
 :::
 
-#### markdown-it Challenge================
+#### MarkdownChallenge2==============
