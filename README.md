@@ -77,7 +77,7 @@ independently.
 Here is the CSS, no JavaScript is needed. I deliberately used the class name
 “breadcrumbs3” to avoid name collision with the Bootstrap 5 original class.
 
-See Breadcrumb3.css in the repository. **Test sentence, to see how it works.**
+See Breadcrumb3.css in the repository. 
 
 4 Full Article
 --------------
