@@ -48,7 +48,7 @@ this example. HTML code for icon usage is a bit complicated because we needed to
 separate icons and text into 2 separate elements so they could be styled
 independently.
 
-``` js 
+```html
 <!DOCTYPE html>
 <html>
 
