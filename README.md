@@ -20,7 +20,8 @@ Account number. I was not satisfied with the solutions I saw on the internet, so
 I developed my own. While the title says this is a “Bootstrap 5” library, it is
 completely independent of the Bootstrap CSS and only chosen colors were taken
 from the Bootstrap CSS to align with the Bootstrap 5 theme. You can use it
-independently from Bootstrap if you like. \#\#\# 1.1 Changes in this version
+independently from Bootstrap if you like. 
+### 1.1 Changes in this version
 This version incorporates suggestions and code from
 Graeme_Grant\@codeproject.com to make the code shorter. I do not necessarily
 agree with all the suggestions, because I think code human readability is more
