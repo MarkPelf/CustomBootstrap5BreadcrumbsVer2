@@ -37,7 +37,7 @@ is present by default, unless explicitly disabled. The hover effect is usually
 disabled for the last breadcrumb because that is the current selection in
 effect.
 
-![55_pic21](readme/55_pic21.png)
+![55_pic21](Readme/55_pic21.png)
 
 Here is the HTML code that generates the above rendering. Any web developer
 should be able to read the HTML code and match it to the above picture to find
