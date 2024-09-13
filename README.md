@@ -14,7 +14,7 @@ needed something much better, both visually and more functional. Over time, in
 my applications, I found it very useful to use Breadcrumbs to enable the user to
 go back to the higher level, after he drills into details on the particular
 item/object. Very important to me was the ability to present **TEXT DATA IN
-TWO ROWS** , especially in cases where I am showing some data and ID, like an
+TWO ROWS**, especially in cases where I am showing some data and ID, like an
 indication that is the data for some Account, and at the same time providing the
 Account number. I was not satisfied with the solutions I saw on the internet, so
 I developed my own. While the title says this is a “Bootstrap 5” library, it is
@@ -23,7 +23,7 @@ from the Bootstrap CSS to align with the Bootstrap 5 theme. You can use it
 independently from Bootstrap if you like. 
 ### 1.1 Changes in this version
 This version incorporates suggestions and code from
-Graeme_Grant\@codeproject.com to make the code shorter. I do not necessarily
+Graeme_Grant@codeproject.com to make the code shorter. I do not necessarily
 agree with all the suggestions, because I think code human readability is more
 important than shorter code. So, I made my own new version. Also, this version
 uses Bootstrap Icons [1] instead of Font Awesome Icons.
@@ -115,6 +115,34 @@ console.log(foo(5));
 | ext    | extension to be  |
 
 #### MarkdownChallenge1==============
+
+#### MarkdownChallenge3==============
+[Url with spaces](/url with space)  
+[Url with no spaces](/url-with-no-space)  
+
+#####No space after markup  
+No space **after**, markup  
+
+https://www.url-auto-linking.com  
+markpelf@extended-email-autolink.com  
+mailto:markpelf@extended-protocol-autolink.com
+
+Color green `#0F0`  
+Color green `RGB(0,255,0)`    
+
+#####Punctuation issues  
+No punctuation **A**C  
+with colon **A:**C  
+with dash **A-**C   
+with space **A **B   
+using undercores __A:__C 
+
+Punctuation issues fixed  
+with colon  **A:**&ZeroWidthSpace;C  
+with colon  **A:**&#8203;C   
+with colon  **A:**&#x200B;C    
+
+#### MarkdownChallenge3============== 
 
 #### MarkdownChallenge2==============
 #### Plugins  
